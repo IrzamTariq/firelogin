@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021010308966",
+    "firebase_url": "https://firelogin-fe997.firebaseio.com",
+    "project_id": "firelogin-fe997",
+    "storage_bucket": "firelogin-fe997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021010308966:android:e3af1e57c9e46fd5cc22a7",
+        "android_client_info": {
+          "package_name": "com.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021010308966-hflbrdiqm9t04safj1mda0o15mv9vq0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWzPpBIh5-rpvaHuGtRp_o4JYcEcUyu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021010308966-hflbrdiqm9t04safj1mda0o15mv9vq0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
